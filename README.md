@@ -26,4 +26,4 @@ Script Bash per **unire tutte le partizioni di una chiavetta USB** in un'unica p
 2. Avvia lo script: ./merge_usb_safe.sh.
 3. Lo script mostrerà la lista dei dischi disponibili.
 4. Inserisci il nome del volume da assegnare alla chiavetta.
-5. conferma digitando `yes` per procedere.
+5. Conferma digitando `yes` per procedere.
